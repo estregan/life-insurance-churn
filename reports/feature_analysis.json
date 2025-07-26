@@ -1,0 +1,21 @@
+{
+  "numeric_features": [
+    "Unnamed: 0",
+    "Claim Amount",
+    "Category Premium",
+    "Premium/Amount Ratio",
+    "BMI"
+  ],
+  "categorical_features": [
+    "Customer Name",
+    "Customer_Address",
+    "Company Name",
+    "Claim Reason",
+    "Data confidentiality",
+    "Claim Request output"
+  ],
+  "target_cols": [
+    "Churn"
+  ],
+  "total_features": 11
+}
