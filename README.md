@@ -4,7 +4,7 @@ A machine learning project to predict customer churn in life insurance using tra
 
 ## Project Structure
 - `data/` - Raw and processed datasets
-- `models/` - Trained machine learning models
+- `models/` - Trained machine learning models  
 - `reports/` - Analysis reports and visualizations
 - `notebooks/` - Jupyter notebooks for development
 
