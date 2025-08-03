@@ -1,0 +1,16 @@
+{
+  "churn_generation_method": "synthetic_business_logic",
+  "features_used": {
+    "claim_col": "Claim Request output",
+    "premium_col": "Premium/Amount Ratio"
+  },
+  "final_churn_rate": 0.137455,
+  "random_seed": 42,
+  "business_logic": {
+    "age_effect": "younger customers higher churn",
+    "premium_effect": "higher premiums lower churn",
+    "tenure_effect": "longer tenure lower churn",
+    "claim_effect": "recent claims higher churn",
+    "individual_variation": "customer-specific factors"
+  }
+}
