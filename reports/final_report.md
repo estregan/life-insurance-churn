@@ -1,5 +1,5 @@
 # Life Insurance Churn Prediction - Final Report
-Generated: 2025-08-03 20:09:38
+Generated: 2025-08-05 01:25:38
 
 ## Executive Summary
 
@@ -7,7 +7,7 @@ This project developed a machine learning model to predict customer churn in lif
 
 ## Dataset Summary
 - **Total samples**: 200,000
-- **Final features**: 8
+- **Final features**: 6
 - **Churn rate**: 13.7%
 - **Data quality**: Extensive cleaning and leakage prevention applied
 
@@ -15,7 +15,7 @@ This project developed a machine learning model to predict customer churn in lif
 
 ### Data Preprocessing
 - Aggressive data leakage detection and removal
-- PII column exclusion for privacy and leakage prevention  
+- PII column exclusion for privacy and leakage prevention
 - Conservative feature engineering approach
 - Comprehensive data quality checks
 
@@ -30,7 +30,7 @@ This project developed a machine learning model to predict customer churn in lif
 
 ### Logistic Regression
 - **Accuracy**: 0.5480
-- **Precision**: 0.1630  
+- **Precision**: 0.1630
 - **Recall**: 0.5537
 - **F1-Score**: 0.2519
 - **AUC**: 0.5705
@@ -38,13 +38,13 @@ This project developed a machine learning model to predict customer churn in lif
 - **Overfitting Gap**: 0.004431249999999998
 
 ### Random Forest
-- **Accuracy**: 0.4879
-- **Precision**: 0.1584  
-- **Recall**: 0.6320
-- **F1-Score**: 0.2533
-- **AUC**: 0.5644
-- **Training Accuracy**: 0.49258125
-- **Overfitting Gap**: 0.004706250000000023
+- **Accuracy**: 0.4747
+- **Precision**: 0.1572
+- **Recall**: 0.6471
+- **F1-Score**: 0.2530
+- **AUC**: 0.5667
+- **Training Accuracy**: 0.48005
+- **Overfitting Gap**: 0.005324999999999969
 
 ## Performance Assessment
 
