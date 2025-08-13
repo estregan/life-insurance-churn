@@ -151,7 +151,6 @@ Despite data quality issues, the project demonstrates:
 
 **[Your Name]**
 - GitHub: [@estregan](https://github.com/estregan)
-- LinkedIn: [Your LinkedIn Profile]
 - Email: your.email@example.com
 
 ## 📄 License
