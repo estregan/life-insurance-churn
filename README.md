@@ -149,9 +149,8 @@ Despite data quality issues, the project demonstrates:
 
 ## 👤 Author
 
-**[Your Name]**
+**Norman Bernardo**
 - GitHub: [@estregan](https://github.com/estregan)
-- Email: your.email@example.com
 
 ## 📄 License
 
